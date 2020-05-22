@@ -1,7 +1,7 @@
-# ateam-142
+#  milk weight analyzer
 
-1. Course: cs400
-2. Semester: Spring 2020
+1. This app is based on Java to analyze the milk weight and get statistics (mean, sum and seasonal data) based on raw recoreds.
+2. Get csv file as input and export results as csv format,
 3. Project name: Milk Weights
 
 4. Other notes or comments to the grader:
