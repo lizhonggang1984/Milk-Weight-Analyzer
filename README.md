@@ -4,7 +4,7 @@
 2. Semester: Spring 2020
 3. Project name: Milk Weights
 
-4 Other notes or comments to the grader:
+4. Other notes or comments to the grader:
     Run MilkStat to start the statistic analysis of milk weights.
     (a) need JavaFX as library and set up VM path
     (b) load csv file as source file
